@@ -46,6 +46,12 @@
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/洪传2.jpg" /></td>
   </tr>
   <tr>
+     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/停止迫害.jpg" /></td>
+  </tr>
+  <tr>
+     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/停止迫害1.jpg" /></td>
+  </tr>
+  <tr>
   <tr><td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
   </tr>
   <tr>
