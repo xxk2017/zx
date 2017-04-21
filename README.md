@@ -3,24 +3,20 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/huang.jpg" /></td>
   </tr>
   <tr>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/新伪-火.jpg"/></td>
+  </tr>
+  <tr>
 <td align=center>◆世纪伪案  自焚骗局◆天安门自焚真相<br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816712&from=wnel">◆伪火影片◆荣获51届国际电影节荣誉奖</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F112%2Fmh%2Fpackages%2Fzifen%2F&from=wnel">◆伪火专辑◆全球关于伪火系列深度报道</a><br/>
-     </tr>
-  <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
-<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BC%AA%E7%81%AB.jpg" /></td>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
       <td align=center>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816697&from=wnel">◆解析1400例视频◆揭秘中共与央视造假</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F112%2Fmh%2Fpackages%2F1400%2F&from=wnel">◆解析1400例专辑◆1400例系列深度内幕</a><br/>
-微信如果提示：停止访问该网页<br/>
-请点击右上角，选择浏览器打开<br/>
-苹果用户复制到自带浏览器打开<br/>
-如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
   <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/1400.JPG" /></td>
