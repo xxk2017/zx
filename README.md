@@ -86,7 +86,7 @@
   </tr>
   <tr>
 <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
-推荐谷歌/火狐浏览器♦国产浏览器易干扰<br/>
+推荐谷歌/火狐浏览器/国产浏览器易干扰<br/>
 <a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
@@ -115,7 +115,7 @@
   </tr>
   <tr>
       <td align=center>
-2017年网民翻墙最人气VPN<br/>
+2017年网民翻墙最人气软件<br/>
 安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
 下载网门安卓版更快更方便<br/>
   </tr>
@@ -175,6 +175,11 @@ https://git.io/88<br/>
 ◆https://git.io/vQgT2 全球热播纪录片<br/> 
 ◆https://git.io/vQgT6 致有缘人的一封信<br/>
 ◆https://git.io/vQgT9 西藏局势真实新闻<br/>
+全球热播大片，获多项国际大奖<br/>
+◆https://git.io/vQgq7 活摘十年调查<br/>
+◆https://git.io/vQgme 铁证如山 超越纳粹<br/>
+◆https://git.io/vQgms 大卫战红魔<br/>
+◆https://git.io/vQgqs 致我们心中的善<br/>
   </tr>
   <tr>
 </table>  
