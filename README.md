@@ -17,6 +17,7 @@
 ◆2017国人翻墙最人气软件网门<br/>
 ◆网门安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
 ◆下载网门安卓版：更快更方便<br/>
+◆https://git.io/vQgTk 本页固定短网址<br/> 
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/huang.jpg" /></td>
@@ -174,9 +175,6 @@ https://git.io/88<br/>
 ◆https://git.io/vQgT2 全球热播纪录片<br/> 
 ◆https://git.io/vQgT6 致有缘人的一封信<br/>
 ◆https://git.io/vQgT9 西藏局势真实新闻<br/>
-  </tr>
-  <tr>
-<td align=left>◆https://git.io/vQgTk 本页固定短网址<br/> 
   </tr>
   <tr>
 </table>  
