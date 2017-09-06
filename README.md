@@ -122,7 +122,6 @@ https://github.com/ogate2/ogate<br/>
   </tr>
   <tr>
   <td align=center>请尝试不同入口，进入动态网址<br/>
-<td align=center>请尝试不同入口，进入动态网址<br/>
       <a href="https://s3-us-west-1.amazonaws.com/ogaten/oGate.htm?from=wnel">入口</a>
       <a href="https://s3.us-east-2.amazonaws.com/ogateh/oGate.htm?from=wnel">入口</a>
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=wnel">入口</a><br/>
